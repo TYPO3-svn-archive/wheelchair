@@ -1,8 +1,9 @@
-2007-03-08 Oliver Klee  <typo3-coding@oliverklee.de>
-	* converted the locallang file to XML
+0.4.0 - currently working on
 
-2006-07-26 Oliver Klee  <typo3-coding@oliverklee.de>
-	* added an extension icon
+0.3.0 - released 2007-03-08
+- converted the locallang file to XML
 
-2006-07-24 Oliver Klee  <typo3-coding@oliverklee.de>
-	* initial public release
+0.2.0 - released 2006-07-26
+- added an extension icon
+
+0.1.0 - released 2006-07-24
